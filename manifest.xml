@@ -3,7 +3,7 @@
   <remote  name="origin"
            url="https://github.com/ivan-kits"
            revision="main" />
-  <default name="origin"
+  <default ="origin"
            revision="master" />
   
   <project name="cdroid"
